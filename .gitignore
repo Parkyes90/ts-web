@@ -108,3 +108,5 @@ dist
 # Jetbrains
 .idea
 
+# db
+db.json
